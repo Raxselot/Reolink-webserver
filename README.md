@@ -16,6 +16,7 @@ Why a Managed Switch?
 Multiple shooting ranges can be connected simultaneously (up to 5), requiring a managed switch to handle multiple camera streams efficiently and without network issues.
 
 Getting Started
+
 Requirements
 Install the necessary libraries:
 
@@ -56,6 +57,7 @@ CROP_BOTTOM=0
 
 
 Explanation of the Code
+
 Camera Authentication: The code first logs into the camera using its API, retrieving a token needed to access the camera’s images.
 
 Image Capture: Once authenticated, the script sends a request to the camera to capture a snapshot, which is saved locally.

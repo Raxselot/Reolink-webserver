@@ -13,7 +13,7 @@ Why Not Use the Raspberry Pi for DHCP?
 For reliability and network consistency, a more robust router or dedicated device is preferable for DHCP. Using the Raspberry Pi for DHCP is not ideal since it should focus on its primary task—capturing images and running the web server—rather than managing network addresses.
 
 Why a Managed Switch?
-Multiple shooting ranges can be connected simultaneously (up to 5), requiring a managed switch to handle multiple camera streams efficiently and without network issues.
+Multiple shooting ranges can be connected simultaneously, requiring a managed switch to handle multiple camera streams efficiently and without network issues.
 
 Getting Started
 

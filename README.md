@@ -1,7 +1,8 @@
 This project is a simple Python application that interacts with a Reolink camera to capture snapshots and display them on a web server. Originally developed for a friend's shooting range, the primary goal was to provide a way to view snapshots of targets at regular intervals.
 
 Project Motivation
-This solution was chosen over streaming video to accommodate a low-budget setup. Instead of requiring an expensive setup, this project uses affordable components:
+The Solution was made becaue its a low Budget Project, we take pictures because the reolink snapshots, are 4k. The Reolink just acts as a normal Camera. The Video Stream quality is not good so we rather take a picture every sec. Then Streaming bad Quality 
+
 
 Reolink 8111a camera (~$70 used)
 Raspberry Pi 3b
